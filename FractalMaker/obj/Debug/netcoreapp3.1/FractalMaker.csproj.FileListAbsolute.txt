@@ -1,0 +1,17 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\bin\Debug\netcoreapp3.1\FractalMaker.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.genruntimeconfig.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.FractalForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\FractalMaker\FractalMaker\obj\Debug\netcoreapp3.1\FractalMaker.Properties.Resources.resources
